@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/header-banner.svg" alt="Lokendra Singh Shekhawat — Senior Full-Stack & AI Solutions Engineer" width="100%" />
+  <img src="assets/header-banner.svg" alt="Lokendra Singh Shekhawat — Senior Full-Stack Web & AI Solutions Engineer" width="100%" />
 
   <br><br>
 
@@ -13,7 +13,7 @@
   <p align="center">
     📍 <b>Jaipur, Rajasthan, India</b> &nbsp;•&nbsp;
     💼 <b>Founder @ Eyvy Solutions</b> &nbsp;•&nbsp;
-    🚀 <b>7+ Years Industry Experience</b> &nbsp;•&nbsp;
+    🚀 <b>7+ Years Experience</b> &nbsp;•&nbsp;
     🟢 <b>Available for Projects & Retainers</b>
   </p>
 
@@ -21,18 +21,18 @@
 
 ---
 
-### 👨‍💻 Engineering Profile
+### 👨‍💻 Overview
 
-Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience** building high-throughput web applications, enterprise SaaS platforms, and automated AI systems for startups, product agencies, and enterprises worldwide.
+Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience** architecting high-performance web applications, scalable SaaS systems, and automated AI workflows for startups, agencies, and enterprises worldwide.
 
-* **Full-Stack Web Engineering**: React, Next.js, Node.js, Express, PHP, Python, and FastAPI.
-* **APIs & Integrations**: High-speed REST APIs, Amadeus GDS & travel suppliers, Stripe payments, WebRTC, and WebSockets.
-* **AI & Automation**: Autonomous AI agent orchestration, OpenAI tool-calling pipelines, GPU document OCR, and biometric verification.
-* **Product Delivery**: SaaS MVP development, legacy codebase modernization, performance optimization, and ongoing retainers.
+* **Core Stack**: React, Next.js, Node.js, Express, PHP, Python, and FastAPI.
+* **APIs & Real-Time**: High-throughput REST APIs, Amadeus GDS Travel APIs, Stripe, WebRTC, and WebSockets.
+* **AI & Automation**: Autonomous AI agent orchestration, OpenAI tool-calling pipelines, GPU document OCR, and biometric KYC.
+* **Product Delivery**: Full-stack web development, SaaS MVPs, codebase modernization, bug fixing, and dedicated engineering retainers.
 
 ---
 
-### 🛠️ Core Technology Stack
+### 🛠️ Technical Stack
 
 <table>
   <tr>
@@ -63,7 +63,7 @@ Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience**
     <td valign="top"><b>AI & Automation</b></td>
     <td>
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI_Agent_Orchestration-FF6F00?style=flat-square&logo=google-analytics&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=google-analytics&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/Computer_Vision_OCR-5C6BC0?style=flat-square&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -87,27 +87,91 @@ Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience**
 
 ---
 
-### 🚀 Featured Platforms & SaaS Products
+### 🚀 Featured Platforms & Client Work
 
-| Platform | Core Focus | Primary Tech Stack | Impact & Highlights |
-| :--- | :--- | :--- | :--- |
-| **[Adsmith.ai](https://adsmith.ai/)** | AI Advertising Video Platform | Next.js, Node.js, Sora 2 Pro, Veo 3.1, Supabase | Multi-model video ad generation, autonomous testing, 4x profitability |
-| **[StrategyWorks](https://strategyworks.io/)** | Enterprise Strategy & PMO SaaS | PHP, MySQL, Angular, Docker, AWS, RBAC | Board-level OKR/KPI portfolio delivery, G2 4.7 ★ enterprise SaaS |
-| **[Lazim](https://www.lazim.ae/)** | Community ERP & Property Management | Python, FastAPI, GPU OCR, TensorFlow, AWS | Automated invoice bookkeeping, 95% document extraction accuracy |
-| **[Mr Basrai's World Cuisines](https://www.mrbasrai.com/)** | Restaurant & Online Table Reservations | Full-Stack Web, JavaScript, Django, REST APIs | Multi-location reservation engine, 90+ Google PageSpeed mobile score |
-| **[Zayrro](https://zayrro.com/)** | Multi-Supplier Travel Booking Aggregator | React.js, Node.js, Express, PostgreSQL, Amadeus GDS | Unified GDS aggregator with -40% AI route savings algorithms |
-| **[Vinstar IDV](https://vinstar.in/)** | Automated Identity Verification & Video KYC | Next.js, Python, FastAPI, Computer Vision, WebRTC | Automated ID checks, ISO 30107-3 Biometric Liveness, <1.2s SLA |
-| **[Zayrro AI Chat](https://chat.eyvy.in/)** | Autonomous Conversational Travel Agent | React.js, Python, FastAPI, OpenAI, Agent Tooling | Multi-step agent orchestration, live flight & hotel queries, instant itineraries |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://adsmith.ai/" target="_blank">
+        <img src="assets/projects/adsmith-preview.png" width="100%" alt="Adsmith.ai" />
+      </a>
+      <h3><a href="https://adsmith.ai/">Adsmith.ai</a></h3>
+      <p><b>Next.js & AI Video Advertising Platform</b></p>
+      <p>Autonomous AI video ad creation, rendering, and continuous multi-variant campaign testing across Meta and Google Ads with intelligent model routing.</p>
+      <p><code>Next.js</code> <code>Node.js</code> <code>Sora 2 Pro</code> <code>Veo 3.1</code> <code>Supabase</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://strategyworks.io/" target="_blank">
+        <img src="assets/projects/strategyworks-preview.png" width="100%" alt="StrategyWorks" />
+      </a>
+      <h3><a href="https://strategyworks.io/">StrategyWorks</a></h3>
+      <p><b>PHP Enterprise Strategy & PMO SaaS</b></p>
+      <p>Robust enterprise platform linking executive board objectives to operational OKRs, KPIs, and delivery programmes. Rated 4.7/5 on G2.</p>
+      <p><code>PHP</code> <code>MySQL</code> <code>Angular</code> <code>Docker</code> <code>AWS</code> <code>RBAC</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.lazim.ae/" target="_blank">
+        <img src="assets/projects/lazim-preview.png" width="100%" alt="Lazim ERP" />
+      </a>
+      <h3><a href="https://www.lazim.ae/">Lazim</a></h3>
+      <p><b>Community ERP & GPU OCR Platform</b></p>
+      <p>Property management ERP featuring GPU-accelerated invoice scanning and document OCR, achieving 95% automated bookkeeping extraction accuracy.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>GPU OCR</code> <code>TensorFlow</code> <code>AWS EC2</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.mrbasrai.com/" target="_blank">
+        <img src="assets/projects/mrbasrai-preview.png" width="100%" alt="Mr Basrai's World Cuisines" />
+      </a>
+      <h3><a href="https://www.mrbasrai.com/">Mr Basrai's World Cuisines</a></h3>
+      <p><b>Restaurant Chain & Online Reservation Engine</b></p>
+      <p>High-speed restaurant booking web application with multi-location menus, achieving a 90+ Google PageSpeed mobile score.</p>
+      <p><code>HTML5/CSS3</code> <code>JavaScript</code> <code>Django</code> <code>Reservation API</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://zayrro.com/" target="_blank">
+        <img src="assets/projects/zayrro-preview.png" width="100%" alt="Zayrro Travel" />
+      </a>
+      <h3><a href="https://zayrro.com/">Zayrro</a></h3>
+      <p><b>Multi-Supplier Travel Booking Platform</b></p>
+      <p>High-concurrency travel booking aggregator integrating Amadeus GDS, Benzy, and Akbar Travels with -40% AI route cost savings algorithms.</p>
+      <p><code>React.js</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>Amadeus GDS</code> <code>Stripe</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://vinstar.in/" target="_blank">
+        <img src="assets/projects/vinstar-preview.png" width="100%" alt="Vinstar IDV" />
+      </a>
+      <h3><a href="https://vinstar.in/">Vinstar IDV</a></h3>
+      <p><b>Automated Identity Verification & Video KYC</b></p>
+      <p>Instant fraud detection and customer onboarding parsing 14,000+ document templates, ISO 30107-3 3D liveness, and WebRTC video KYC under 1.2s SLA.</p>
+      <p><code>Next.js</code> <code>Python</code> <code>FastAPI</code> <code>Computer Vision</code> <code>WebRTC</code> <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://chat.eyvy.in/" target="_blank">
+        <img src="assets/projects/zayrro-chat-preview.png" width="100%" alt="Zayrro AI Chat" />
+      </a>
+      <h3><a href="https://chat.eyvy.in/">Zayrro AI Chat</a></h3>
+      <p><b>Autonomous Conversational AI Travel Agent</b></p>
+      <p>Conversational travel assistant orchestrating OpenAI models and custom tool calling to query live flight/hotel APIs, calculate optimal routes, and generate complete bookable itineraries in real-time streaming.</p>
+      <p><code>React.js</code> <code>Node.js</code> <code>Python</code> <code>FastAPI</code> <code>OpenAI GPT-4o</code> <code>Agentic Tooling</code> <code>Streaming SSE</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💼 Career & Experience Snapshot
+### 💼 Professional Experience
 
 * **Founder & Principal Engineer** — **Eyvy Solutions** *(Apr 2025 — Present · Jaipur, India)*
-  * Architecting full-stack web applications, SaaS platforms, and AI systems (Zayrro, Vinstar IDV, Zayrro AI Chat).
-  * Engineered Generative AI multi-model video pipelines (LTX-2, Veo 3.1, Sora 2 Pro) and high-concurrency travel GDS integrations.
+  * Architecting production web and AI platforms (Zayrro, Vinstar IDV, Zayrro AI Chat).
+  * Engineered Generative AI multi-model video pipelines (LTX-2, Veo 3.1, Sora 2 Pro) and high-concurrency travel GDS API integrations.
 * **Machine Learning Engineer** — **Ilaj Services** *(Jun 2024 — Apr 2025)*
-  * Built GPU-accelerated document OCR microservices for real estate community ERP, boosting throughput by 20% on AWS EC2.
+  * Built GPU-accelerated document OCR microservices for real estate ERP, boosting throughput by 20% on AWS EC2.
 * **Senior Software Engineer** — **Datamatics** *(Jan 2022 — Jun 2024 · Bangalore, India)*
   * Automated banking loan origination and underwriting workflows for IDFC First Bank LOS, cutting turnaround by 30%.
 * **Software Developer** — **Ecloud Solutions** *(May 2019 — Jan 2022)*
@@ -120,10 +184,6 @@ Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lokendra-shekhawat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=cbd5e1" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokendra-shekhawat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=cbd5e1" height="170" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokendra-shekhawat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
 </div>
 
 ---
