@@ -1,21 +1,27 @@
 <div align="center">
 
-  <a href="https://github.com/lokendra-shekhawat">
-    <img src="./assets/header-banner.png" alt="Lokendra Singh Shekhawat — Senior Full-Stack & AI Solutions Lead" width="100%" />
-  </a>
+  # Lokendra Singh Shekhawat 👋
+  ### Senior Full-Stack Web & SaaS Engineer · AI Solutions Lead
+  #### Building Smart AI & High-Impact Digital Products
 
-  <br><br>
+  <p>
+    <code>React</code> &nbsp;•&nbsp;
+    <code>Next.js</code> &nbsp;•&nbsp;
+    <code>Node.js</code> &nbsp;•&nbsp;
+    <code>PHP</code> &nbsp;•&nbsp;
+    <code>Python</code> &nbsp;•&nbsp;
+    <code>FastAPI</code> &nbsp;•&nbsp;
+    <code>AI Agents</code>
+  </p>
 
-  <!-- Quick Social & Action Badges -->
-  <p align="center">
+  <p>
     <a href="https://linkedin.com/in/ldivrala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:s2lokendra@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/lokendra-shekhawat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://github.com/lokendra-shekhawat?tab=repositories"><img src="https://img.shields.io/badge/Projects-00d4ff?style=for-the-badge&logo=githubpages&logoColor=black" alt="Projects" /></a>
   </p>
 
-  <!-- Status Bar -->
-  <p align="center">
+  <p>
     📍 <b>Jaipur, Rajasthan, India</b> &nbsp;•&nbsp;
     💼 <b>Founder @ Eyvy Solutions</b> &nbsp;•&nbsp;
     🚀 <b>7+ Years Experience</b> &nbsp;•&nbsp;
