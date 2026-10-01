@@ -228,15 +228,6 @@ Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience**
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokendra-shekhawat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=cbd5e1" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokendra-shekhawat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=cbd5e1" height="170" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Connect & Collaborate
 
 * 💼 **LinkedIn**: [linkedin.com/in/ldivrala](https://linkedin.com/in/ldivrala/)
