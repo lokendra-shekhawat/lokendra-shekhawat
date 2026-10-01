@@ -101,119 +101,179 @@ Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience**
 ### 🚀 Featured Platforms & SaaS Products
 
 <table>
-  <!-- Row 1: Adsmith & StrategyWorks -->
+  <!-- Row 1: Adsmith.ai & StrategyWorks -->
   <tr>
     <td width="50%" valign="top">
       <a href="https://adsmith.ai/" target="_blank">
-        <img src="./assets/projects/adsmith-preview.png" width="100%" alt="Adsmith.ai" style="border-radius: 8px;" />
+        <img src="./assets/projects/adsmith-preview.png" width="100%" alt="Adsmith.ai" />
       </a>
       <br><br>
-      <b><a href="https://adsmith.ai/">Adsmith.ai</a></b> &nbsp; <a href="https://adsmith.ai/"><img src="https://img.shields.io/badge/Live_Site-00d4ff?style=flat-square&logo=googlechrome&logoColor=black" /></a>
+      <a href="https://adsmith.ai/"><b><font size="+1">Adsmith.ai</font></b></a>
       <br>
-      <sub><b>Next.js & AI Video Advertising Platform</b></sub>
-      <p>Autonomous AI video ad creation, multi-model rendering (Sora 2 Pro, Veo 3.1, LTX-2), and automated continuous campaign optimization across Meta and Google Ads.</p>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Sora_2_Pro-8A2BE2?style=flat-square" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <a href="https://adsmith.ai/"><img src="https://img.shields.io/badge/Live_Site-00d4ff?style=flat-square&logo=googlechrome&logoColor=000" alt="Live Site" /></a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/ROAS-4x_Profitability-10b981?style=flat-square" alt="ROAS Metric" />
+      <br><br>
+      <small><b>Lead Full-Stack & AI Engineer</b> &bull; <i>AI Video Advertising Platform</i></small>
+      <br><br>
+      Autonomous AI video ad creation orchestrating multi-model rendering (Sora 2 Pro, Veo 3.1, LTX-2) and automated continuous campaign optimization across Meta and Google Ads.
+      <br><br>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Node.js-22c55e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Sora_2_Pro-8b5cf6?style=flat-square" alt="Sora 2 Pro" />
+      <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
     </td>
     <td width="50%" valign="top">
       <a href="https://strategyworks.io/" target="_blank">
-        <img src="./assets/projects/strategyworks-preview.png" width="100%" alt="StrategyWorks" style="border-radius: 8px;" />
+        <img src="./assets/projects/strategyworks-preview.png" width="100%" alt="StrategyWorks" />
       </a>
       <br><br>
-      <b><a href="https://strategyworks.io/">StrategyWorks</a></b> &nbsp; <a href="https://strategyworks.io/"><img src="https://img.shields.io/badge/G2_4.7_★-FF5A00?style=flat-square&logo=g2&logoColor=white" /></a>
+      <a href="https://strategyworks.io/"><b><font size="+1">StrategyWorks</font></b></a>
       <br>
-      <sub><b>PHP Enterprise Strategy & PMO SaaS</b></sub>
-      <p>Robust enterprise platform linking executive board objectives to operational OKRs, KPIs, and delivery programmes with granular role-based access control.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <a href="https://strategyworks.io/"><img src="https://img.shields.io/badge/G2_4.7_%E2%98%85-ff5a00?style=flat-square&logo=g2&logoColor=white" alt="G2 Rating" /></a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Scale-Enterprise_PMO-3b82f6?style=flat-square" alt="Scale Metric" />
+      <br><br>
+      <small><b>Solutions Architect & Full-Stack Lead</b> &bull; <i>Enterprise PMO SaaS</i></small>
+      <br><br>
+      Robust enterprise strategy platform linking executive board objectives to operational OKRs, KPIs, and delivery programmes with real-time reporting and multi-tenant security.
+      <br><br>
+      <img src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
     </td>
   </tr>
 
-  <!-- Row 2: Lazim & Mr Basrai -->
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.lazim.ae/" target="_blank">
-        <img src="./assets/projects/lazim-preview.png" width="100%" alt="Lazim ERP" style="border-radius: 8px;" />
-      </a>
-      <br><br>
-      <b><a href="https://www.lazim.ae/">Lazim</a></b> &nbsp; <a href="https://www.lazim.ae/"><img src="https://img.shields.io/badge/Live_ERP-10b981?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-      <br>
-      <sub><b>Community ERP & GPU OCR Platform</b></sub>
-      <p>Property management ERP with GPU-accelerated invoice scanning and document OCR pipelines, achieving 95% automated bookkeeping extraction accuracy.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/GPU_OCR-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://www.mrbasrai.com/" target="_blank">
-        <img src="./assets/projects/mrbasrai-preview.png" width="100%" alt="Mr Basrai's World Cuisines" style="border-radius: 8px;" />
-      </a>
-      <br><br>
-      <b><a href="https://www.mrbasrai.com/">Mr Basrai's World Cuisines</a></b> &nbsp; <a href="https://www.mrbasrai.com/"><img src="https://img.shields.io/badge/90+_PageSpeed-00C4B4?style=flat-square&logo=lighthouse&logoColor=white" /></a>
-      <br>
-      <sub><b>Restaurant Chain & Online Reservation Engine</b></sub>
-      <p>High-speed restaurant booking web application with multi-location menus, achieving a 90+ Google PageSpeed mobile score.</p>
-      <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Reservation_API-02569B?style=flat-square" />
-    </td>
-  </tr>
-
-  <!-- Row 3: Zayrro & Vinstar IDV -->
+  <!-- Row 2: Zayrro & Zayrro AI Chat -->
   <tr>
     <td width="50%" valign="top">
       <a href="https://zayrro.com/" target="_blank">
-        <img src="./assets/projects/zayrro-preview.png" width="100%" alt="Zayrro Travel" style="border-radius: 8px;" />
+        <img src="./assets/projects/zayrro-preview.png" width="100%" alt="Zayrro Travel" />
       </a>
       <br><br>
-      <b><a href="https://zayrro.com/">Zayrro</a></b> &nbsp; <a href="https://zayrro.com/"><img src="https://img.shields.io/badge/Eyvy_Solutions-8A2BE2?style=flat-square" /></a>
+      <a href="https://zayrro.com/"><b><font size="+1">Zayrro</font></b></a>
       <br>
-      <sub><b>Multi-Supplier Travel Booking Platform</b></sub>
-      <p>High-concurrency travel booking aggregator integrating Amadeus GDS, Benzy, and Akbar Travels with -40% AI route cost savings algorithms.</p>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Amadeus_GDS-005EB8?style=flat-square" />
-      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      <a href="https://zayrro.com/"><img src="https://img.shields.io/badge/Live_Site-00d4ff?style=flat-square&logo=googlechrome&logoColor=000" alt="Live Site" /></a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Cost--40%25_Routes-10b981?style=flat-square" alt="Cost Metric" />
+      <br><br>
+      <small><b>Founder & Principal Architect</b> &bull; <i>Multi-Supplier Travel Engine</i></small>
+      <br><br>
+      High-concurrency travel booking aggregator integrating Amadeus GDS, Benzy, and Akbar Travels with AI-assisted alternative routing algorithms and instant booking checkout.
+      <br><br>
+      <img src="https://img.shields.io/badge/React.js-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React.js" />
+      <img src="https://img.shields.io/badge/Node.js-22c55e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Amadeus_GDS-005eb8?style=flat-square" alt="Amadeus" />
+      <img src="https://img.shields.io/badge/Stripe-635bff?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://vinstar.in/" target="_blank">
-        <img src="./assets/projects/vinstar-preview.png" width="100%" alt="Vinstar IDV" style="border-radius: 8px;" />
+      <a href="https://chat.eyvy.in/" target="_blank">
+        <img src="./assets/projects/zayrro-chat-preview.png" width="100%" alt="Zayrro AI Chat" />
       </a>
       <br><br>
-      <b><a href="https://vinstar.in/">Vinstar IDV</a></b> &nbsp; <a href="https://vinstar.in/"><img src="https://img.shields.io/badge/&lt;1.2s_SLA-00d4ff?style=flat-square" /></a>
+      <a href="https://chat.eyvy.in/"><b><font size="+1">Zayrro AI Chat</font></b></a>
       <br>
-      <sub><b>Automated Identity Verification & Video KYC</b></sub>
-      <p>Instant fraud detection and customer onboarding parsing 14,000+ document templates, ISO 30107-3 3D liveness, and WebRTC video KYC under 1.2s SLA.</p>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+      <a href="https://chat.eyvy.in/"><img src="https://img.shields.io/badge/Live_Agent-00d4ff?style=flat-square&logo=googlechrome&logoColor=000" alt="Live Agent" /></a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Streaming-Real--Time_SSE-8b5cf6?style=flat-square" alt="Streaming Metric" />
+      <br><br>
+      <small><b>Founder & AI Agent Architect</b> &bull; <i>Autonomous AI Travel Assistant</i></small>
+      <br><br>
+      Conversational AI agent orchestrating multi-step LLM tool calling to query live flight and hotel APIs, calculate optimal routes, and stream complete bookable itineraries in real time.
+      <br><br>
+      <img src="https://img.shields.io/badge/React.js-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React.js" />
+      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/OpenAI-10a37f?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
     </td>
   </tr>
 
-  <!-- Row 4: Zayrro AI Chat (Full Width Card) -->
+  <!-- Row 3: Vinstar IDV & Lazim -->
   <tr>
-    <td colspan="2" valign="top">
-      <a href="https://chat.eyvy.in/" target="_blank">
-        <img src="./assets/projects/zayrro-chat-preview.png" width="100%" alt="Zayrro AI Chat" style="border-radius: 8px;" />
+    <td width="50%" valign="top">
+      <a href="https://vinstar.in/" target="_blank">
+        <img src="./assets/projects/vinstar-preview.png" width="100%" alt="Vinstar IDV" />
       </a>
       <br><br>
-      <b><a href="https://chat.eyvy.in/">Zayrro AI Chat</a></b> &nbsp; <a href="https://chat.eyvy.in/"><img src="https://img.shields.io/badge/Live_Agent-10b981?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+      <a href="https://vinstar.in/"><b><font size="+1">Vinstar IDV</font></b></a>
       <br>
-      <sub><b>Autonomous Conversational AI Travel Agent</b></sub>
-      <p>Conversational travel assistant orchestrating OpenAI models and custom tool calling to query live flight/hotel APIs, calculate optimal routes, and generate complete bookable itineraries in real-time streaming.</p>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Agent_Orchestration-FF6F00?style=flat-square" />
-      <img src="https://img.shields.io/badge/Streaming_SSE-00d4ff?style=flat-square" />
+      <a href="https://vinstar.in/"><img src="https://img.shields.io/badge/Live_Platform-00d4ff?style=flat-square&logo=googlechrome&logoColor=000" alt="Live Platform" /></a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Speed-%3C1.2s_SLA-10b981?style=flat-square" alt="Speed Metric" />
+      <br><br>
+      <small><b>Lead Full-Stack & AI Architect</b> &bull; <i>Automated IDV & Video KYC</i></small>
+      <br><br>
+      Instant fraud detection and customer onboarding parsing 14,000+ document templates, ISO 30107-3 3D biometric liveness detection, and WebRTC video KYC.
+      <br><br>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.lazim.ae/" target="_blank">
+        <img src="./assets/projects/lazim-preview.png" width="100%" alt="Lazim ERP" />
+      </a>
+      <br><br>
+      <a href="https://www.lazim.ae/"><b><font size="+1">Lazim</font></b></a>
+      <br>
+      <a href="https://www.lazim.ae/"><img src="https://img.shields.io/badge/Live_ERP-00d4ff?style=flat-square&logo=googlechrome&logoColor=000" alt="Live ERP" /></a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Accuracy-95%25_OCR-10b981?style=flat-square" alt="Accuracy Metric" />
+      <br><br>
+      <small><b>Machine Learning Engineer</b> &bull; <i>Real Estate ERP & GPU OCR</i></small>
+      <br><br>
+      Property management ERP platform featuring GPU-accelerated invoice scanning and document OCR pipelines to automate high-volume real estate bookkeeping workflows.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/GPU_OCR-76b900?style=flat-square&logo=nvidia&logoColor=white" alt="Nvidia GPU" />
+      <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+    </td>
+  </tr>
+
+  <!-- Row 4: Mr Basrai's World Cuisines & AARM Health -->
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.mrbasrai.com/" target="_blank">
+        <img src="./assets/projects/mrbasrai-preview.png" width="100%" alt="Mr Basrai's World Cuisines" />
+      </a>
+      <br><br>
+      <a href="https://www.mrbasrai.com/"><b><font size="+1">Mr Basrai's World Cuisines</font></b></a>
+      <br>
+      <a href="https://www.mrbasrai.com/"><img src="https://img.shields.io/badge/Live_Site-00d4ff?style=flat-square&logo=googlechrome&logoColor=000" alt="Live Site" /></a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/PageSpeed-90%2B_Mobile-10b981?style=flat-square&logo=lighthouse&logoColor=white" alt="PageSpeed Metric" />
+      <br><br>
+      <small><b>Senior Full-Stack Developer</b> &bull; <i>Hospitality & Reservations</i></small>
+      <br><br>
+      Modern culinary web platform featuring interactive table reservations, multi-branch location menus, and seamless high-speed customer mobile booking flows.
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5%2FCSS3-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML5/CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/REST_APIs-02569b?style=flat-square" alt="REST APIs" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://aarmhealth.com/" target="_blank">
+        <img src="./assets/projects/aarmhealth-preview.png" width="100%" alt="AARM Health" />
+      </a>
+      <br><br>
+      <a href="https://aarmhealth.com/"><b><font size="+1">AARM Health</font></b></a>
+      <br>
+      <a href="https://aarmhealth.com/"><img src="https://img.shields.io/badge/Live_Site-00d4ff?style=flat-square&logo=googlechrome&logoColor=000" alt="Live Site" /></a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Telehealth-Certified_Doctors-10b981?style=flat-square" alt="Telehealth Metric" />
+      <br><br>
+      <small><b>Frontend & UI Architecture Lead</b> &bull; <i>Telemedicine Platform</i></small>
+      <br><br>
+      Digital healthcare platform connecting patients with certified doctors, featuring instant medical specialty filtering, secure OTP auth, and online appointment booking.
+      <br><br>
+      <img src="https://img.shields.io/badge/React.js-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React.js" />
+      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/REST_APIs-02569b?style=flat-square" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/Auth%2FOTP-635bff?style=flat-square" alt="Auth" />
     </td>
   </tr>
 </table>
