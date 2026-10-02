@@ -23,7 +23,7 @@
 
   <p>
     📍 <b>Jaipur, Rajasthan, India</b> &nbsp;•&nbsp;
-    💼 <b>Founder @ Eyvy Solutions</b> &nbsp;•&nbsp;
+    💼 <b>Software Consultant @ Eyvy Solutions</b> &nbsp;•&nbsp;
     🚀 <b>7+ Years Experience</b> &nbsp;•&nbsp;
     🟢 <b>Available for Projects & Retainers</b>
   </p>
@@ -158,7 +158,7 @@ Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience**
       &nbsp;
       <img src="https://img.shields.io/badge/Cost--40%25_Routes-10b981?style=flat-square" alt="Cost Metric" />
       <br><br>
-      <small><b>Founder & Principal Architect</b> &bull; <i>Multi-Supplier Travel Engine</i></small>
+      <small><b>Software Consultant & Principal Architect</b> &bull; <i>Multi-Supplier Travel Engine</i></small>
       <br><br>
       High-concurrency travel booking aggregator integrating Amadeus GDS, Benzy, and Akbar Travels with AI-assisted alternative routing algorithms and instant booking checkout.
       <br><br>
@@ -178,7 +178,7 @@ Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience**
       &nbsp;
       <img src="https://img.shields.io/badge/Streaming-Real--Time_SSE-8b5cf6?style=flat-square" alt="Streaming Metric" />
       <br><br>
-      <small><b>Founder & AI Agent Architect</b> &bull; <i>Autonomous AI Travel Assistant</i></small>
+      <small><b>Software Consultant & AI Agent Architect</b> &bull; <i>Autonomous AI Travel Assistant</i></small>
       <br><br>
       Conversational AI agent orchestrating multi-step LLM tool calling to query live flight and hotel APIs, calculate optimal routes, and stream complete bookable itineraries in real time.
       <br><br>
@@ -282,7 +282,7 @@ Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience**
 
 ### 💼 Professional Experience
 
-* **Founder & Principal Engineer** — **Eyvy Solutions** *(Apr 2025 — Present · Jaipur, India)*
+* **Software Consultant & Principal Engineer** — **Eyvy Solutions** *(Apr 2025 — Present · Jaipur, India)*
   * Architecting production web and AI platforms (Zayrro, Vinstar IDV, Zayrro AI Chat).
   * Engineered Generative AI multi-model video pipelines (LTX-2, Veo 3.1, Sora 2 Pro) and high-concurrency travel GDS API integrations.
 * **Machine Learning Engineer** — **Ilaj Services** *(Jun 2024 — Apr 2025)*
