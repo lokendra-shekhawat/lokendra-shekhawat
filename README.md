@@ -5,6 +5,7 @@
   #### Building Smart AI & High-Impact Digital Products
 
   <p>
+    <code>AWS</code> &nbsp;•&nbsp;
     <code>React</code> &nbsp;•&nbsp;
     <code>Next.js</code> &nbsp;•&nbsp;
     <code>Node.js</code> &nbsp;•&nbsp;
