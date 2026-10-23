@@ -24,7 +24,7 @@
 
   <p>
     📍 <b>Jaipur, Rajasthan, India</b> &nbsp;•&nbsp;
-    💼 <b>Senior Software Developer @ Writlabs</b> &nbsp;•&nbsp;
+    💼 <b>Software Consultant @ Eyvy Solutions</b> &nbsp;•&nbsp;
     🚀 <b>7+ Years Experience</b> &nbsp;•&nbsp;
     🟢 <b>Available for Projects & Retainers</b>
   </p>
@@ -283,7 +283,7 @@ Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience**
 
 ### 💼 Professional Experience
 
-* **Senior Software Developer** — **Writlabs** *(Apr 2025 — Present · Jaipur, India)*
+* **Software Consultant** — **Eyvy Solutions** *(Apr 2025 — Present · Jaipur, India)*
   * Architecting production web and AI platforms (Zayrro, Vinstar IDV, Zayrro AI Chat).
   * Engineered Generative AI multi-model video pipelines (LTX-2, Veo 3.1, Sora 2 Pro) and high-concurrency travel GDS API integrations.
 * **Senior Software Developer** — **Ilaj Services** *(Jun 2024 — Apr 2025)*
