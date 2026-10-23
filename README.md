@@ -23,7 +23,7 @@
 
   <p>
     📍 <b>Jaipur, Rajasthan, India</b> &nbsp;•&nbsp;
-    💼 <b>Software Consultant @ Eyvy Solutions</b> &nbsp;•&nbsp;
+    💼 <b>Senior Software Developer @ Writlabs</b> &nbsp;•&nbsp;
     🚀 <b>7+ Years Experience</b> &nbsp;•&nbsp;
     🟢 <b>Available for Projects & Retainers</b>
   </p>
@@ -282,12 +282,12 @@ Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience**
 
 ### 💼 Professional Experience
 
-* **Software Consultant & Principal Engineer** — **Eyvy Solutions** *(Apr 2025 — Present · Jaipur, India)*
+* **Senior Software Developer** — **Writlabs** *(Apr 2025 — Present · Jaipur, India)*
   * Architecting production web and AI platforms (Zayrro, Vinstar IDV, Zayrro AI Chat).
   * Engineered Generative AI multi-model video pipelines (LTX-2, Veo 3.1, Sora 2 Pro) and high-concurrency travel GDS API integrations.
-* **Machine Learning Engineer** — **Ilaj Services** *(Jun 2024 — Apr 2025)*
+* **Senior Software Developer** — **Ilaj Services** *(Jun 2024 — Apr 2025)*
   * Built GPU-accelerated document OCR microservices for real estate ERP, boosting throughput by 20% on AWS EC2.
-* **Senior Software Engineer** — **Datamatics** *(Jan 2022 — Jun 2024 · Bangalore, India)*
+* **Associate Software Consultant** — **Datamatics** *(Jan 2022 — Jun 2024 · Bangalore, India)*
   * Automated banking loan origination and underwriting workflows for IDFC First Bank LOS, cutting turnaround by 30%.
 * **Software Developer** — **Ecloud Solutions** *(May 2019 — Jan 2022)*
   * Developed real-time WebRTC media applications, RESTful microservices, and interactive web apps.
@@ -302,5 +302,5 @@ Senior Full-Stack Engineer and AI Solutions Lead with **7+ years of experience**
 * 📍 **Location**: Jaipur, Rajasthan, India (IST · UTC+5:30)
 
 <div align="center">
-  <sub>© 2026 Lokendra Singh Shekhawat · Eyvy Solutions</sub>
+  <sub>© 2026 Lokendra Singh Shekhawat </sub>
 </div>
